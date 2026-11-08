@@ -1,15 +1,15 @@
 {
-  "name": "Ata Sorular",
-  "identifier": "com.salih.atasorular.source",
-  "subtitle": "Ata-AÖF çıkmış sorular",
+  "name": "Soru Kampı",
+  "identifier": "com.salih.sorukampi.source",
+  "subtitle": "Açıköğretim çıkmış sorular",
   "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
   "apps": [
     {
-      "name": "Ata Sorular",
+      "name": "Soru Kampı",
       "bundleIdentifier": "com.salih.atasorular",
       "developerName": "salihkahveci090",
-      "subtitle": "Tıbbi Dokümantasyon ve Sekreterlik çıkmış sorular",
-      "localizedDescription": "28 ders, 228 sınav, 4041 soru. Reklamsız, internetsiz çalışır.",
+      "subtitle": "AUZEF, Anadolu AÖF, Ata-AÖF, Ankuzef, Sigorta-Banka",
+      "localizedDescription": "12.000+ sınav, 224.000+ soru. Soru bankası, yanlış defteri, deneme sınavı, sesli video modu. İnternetsiz çalışır.",
       "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
       "tintColor": "2563EB",
       "version": "1.4",
