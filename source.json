@@ -12,11 +12,19 @@
       "localizedDescription": "28 ders, 228 sınav, 4041 soru. Reklamsız, internetsiz çalışır.",
       "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
       "tintColor": "2563EB",
-      "version": "1.0",
+      "version": "1.1",
       "versionDate": "2026-11-08",
       "downloadURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/AtaSorular.ipa",
-      "size": 1067232,
+      "size": 1067222,
       "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-11-08",
+          "localizedDescription": "Mintzberg sorusu düzeltildi (Yönetim ve Organizasyon 2025-26 Bütünleme).",
+          "downloadURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/AtaSorular.ipa",
+          "size": 1067222,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0",
           "date": "2026-11-08",
