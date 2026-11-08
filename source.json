@@ -12,17 +12,17 @@
       "localizedDescription": "12.000+ sınav, 224.000+ soru. Soru bankası, yanlış defteri, deneme sınavı, sesli video modu. İnternetsiz çalışır.",
       "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
       "tintColor": "2563EB",
-      "version": "2.38",
+      "version": "2.40",
       "versionDate": "2026-11-08",
-      "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.38/SoruKampi-2.38.ipa",
-      "size": 176286237,
+      "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.40/SoruKampi-2.40.ipa",
+      "size": 176291876,
       "versions": [
         {
-          "version": "2.38",
+          "version": "2.40",
           "date": "2026-11-08",
-          "localizedDescription": "İlk açılış soruları: kurum, bölüm, dönem, hedef, sınav, çalışma biçimi",
-          "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.38/SoruKampi-2.38.ipa",
-          "size": 176286237,
+          "localizedDescription": "Hesaplayıcılarda tam klavye ve alandan çıkınca temizleme; uyarılar ortada açılıyor",
+          "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.40/SoruKampi-2.40.ipa",
+          "size": 176291876,
           "minOSVersion": "16.0"
         }
       ]
