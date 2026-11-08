@@ -1,0 +1,32 @@
+{
+  "name": "Ata Sorular",
+  "identifier": "com.salih.atasorular.source",
+  "subtitle": "Ata-AÖF çıkmış sorular",
+  "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
+  "apps": [
+    {
+      "name": "Ata Sorular",
+      "bundleIdentifier": "com.salih.atasorular",
+      "developerName": "salihkahveci090",
+      "subtitle": "Tıbbi Dokümantasyon ve Sekreterlik çıkmış sorular",
+      "localizedDescription": "28 ders, 228 sınav, 4041 soru. Reklamsız, internetsiz çalışır.",
+      "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
+      "tintColor": "2563EB",
+      "version": "1.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/AtaSorular.ipa",
+      "size": 1067232,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-08",
+          "localizedDescription": "İlk sürüm",
+          "downloadURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/AtaSorular.ipa",
+          "size": 1067232,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
