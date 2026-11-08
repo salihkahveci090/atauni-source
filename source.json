@@ -12,17 +12,17 @@
       "localizedDescription": "12.000+ sınav, 224.000+ soru. Soru bankası, yanlış defteri, deneme sınavı, sesli video modu. İnternetsiz çalışır.",
       "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
       "tintColor": "2563EB",
-      "version": "2.22",
+      "version": "2.24",
       "versionDate": "2026-11-08",
-      "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.22/SoruKampi-2.22.ipa",
-      "size": 175946083,
+      "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.24/SoruKampi-2.24.ipa",
+      "size": 176020386,
       "versions": [
         {
-          "version": "2.22",
+          "version": "2.24",
           "date": "2026-11-08",
-          "localizedDescription": "Koyu temada görünmeyen soru metni düzeltildi; tema seçeneği",
-          "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.22/SoruKampi-2.22.ipa",
-          "size": 175946083,
+          "localizedDescription": "Oyunlaştırılmış tema: XP, seviye, kontrol et akışı, konfeti, renkli kurum kartları; video modu temaya uyar",
+          "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.24/SoruKampi-2.24.ipa",
+          "size": 176020386,
           "minOSVersion": "16.0"
         }
       ]
