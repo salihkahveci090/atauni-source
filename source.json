@@ -12,16 +12,16 @@
       "localizedDescription": "12.000+ sınav, 224.000+ soru. Soru bankası, yanlış defteri, deneme sınavı, sesli video modu. İnternetsiz çalışır.",
       "iconURL": "https://raw.githubusercontent.com/salihkahveci090/atauni-source/main/icon.png",
       "tintColor": "2563EB",
-      "version": "2.48",
+      "version": "2.49",
       "versionDate": "2026-11-09",
-      "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.48/SoruKampi-2.48.ipa",
+      "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.49/SoruKampi-2.49.ipa",
       "size": 271511249,
       "versions": [
         {
-          "version": "2.48",
+          "version": "2.49",
           "date": "2026-11-09",
           "localizedDescription": "Veritabanı: test merkezi soruları ve çözümleri, tamamlanan konu notları",
-          "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.48/SoruKampi-2.48.ipa",
+          "downloadURL": "https://github.com/salihkahveci090/atauni-source/releases/download/v2.49/SoruKampi-2.49.ipa",
           "size": 271511249,
           "minOSVersion": "16.0"
         }
